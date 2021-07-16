@@ -1,0 +1,12 @@
+/anton_questions/
+/pdfs/
+chromedriver
+geckodriver.log
+*.txt
+.DS_Store
+/env/
+
+/data/control/
+/data/covid/
+/data/user_posts_info_old/
+/data/whylg_posts/
